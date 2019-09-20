@@ -10,7 +10,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.activity_main.bu3
 
 
-import kotlinx.android.synthetic.main.activty_main2.*
+import kotlinx.android.synthetic.main.activity_main2.*
 
 class MainActivity : AppCompatActivity() {
     private var ch=""
